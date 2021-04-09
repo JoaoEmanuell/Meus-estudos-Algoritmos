@@ -1,0 +1,5 @@
+Algoritimos podem ser resumidos como um conjunto de passos finitos e organizados que, quando executados, resolvem um determinado problema.
+
+De forma geral os algoritimos existem em todas as areas das nossas vidas, desde computadores, celulares e outros tipos de tecnologias, sendo eles quem controlam e determinam o funcionamento dos equipamentos.
+
+Em resumo, algoritimos são uma serie de conjuntos com o objetivo de resolver problemas cotidianos de forma simplificada, um algoritimo tem a obrigação de resolver o problema de forma simples e objetiva, caso ele não faça essa tarefa ele não é considerado um algoritimo.

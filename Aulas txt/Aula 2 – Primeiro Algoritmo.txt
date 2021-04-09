@@ -1,0 +1,113 @@
+Algoritomos são diferentes de algoritimos computacionais
+
+Algoritimo no geral é feito para realizar determinada tarefa com perfeição
+
+Algoritimos computacionais são passos a serem seguidos por um *módulo processador* e seus respectivos *usuários* que, quando executados na ordem correta, conseguem *realizar* determinada *tarefa.*
+
+Módulo processador = Tudo que pode ser progamado de forma a realizar tarefas
+
+Usuários = Além de ser um termo que é dado a você, também é um termo que é dado as pessoas que utilizam seus trabalhos
+
+Realizar tarefa = Seria o problema que você quer que o módulo processador resolva
+
+= = =
+
+Os algoritimos computacionais passam por 3 etapas:
+
+Logica de progamação;
+
+Linguagem de progamação;
+
+Sistema Completo;
+
+= = =
+
+A logica de progamação é o que está na sua cabeça, a logica do progama que você imagina e como quer que ele seja executado.
+
+Ja a linguagem de progamação é a linguagem usada para progamar o progama.
+
+E o sistema completo que é o progama ja feito de forma para que você disponibilizara para os usuarios.
+
+= = =
+
+Existe varias formas de expressar a logica de progamação, o curso focara na Portugol
+
+A Portugol trata-se de demonstrar o progama dentro da linguagem nativa do progamador
+
+= = =
+
+Iremos utilizar o Visualgv
+
+Comandos basicos:
+
+Escreva("escreva") = serve para escrever algo dentro do terminal
+
+Escreval("escreva") = serve para escrever algo e pular uma linha dentro do terminal
+
+= = =
+
+Variaveis do portugol:
+
+Variaveis são espaços da memoria que armazenam informações, como cada variavel so pode manter um tipo de informação por vez, ela tem que ser subistituida caso eu queira um novo tipo
+
+Cada variavel é composta de um identificador e do tipo
+
+= = =
+
+Os identificadores tem regras para os nomes:
+
+1. Devem começar com uma letra
+
+2. Os próximos podem ser letras ou números
+
+3. Não pode utilizar nenhum símbolo, execeto _
+
+4. Não pode conter espaços em branco
+
+5. Não pode conter letras com acentos
+
+6. Não pode ser uma palavra reservada
+
+= = =
+
+Palavras reservadas:
+
+São as palavras descritas nas cores azuis ou sublinhadas
+
+= = =
+
+Tipos primitivos:
+
+Tipos primitivos são as determinações dos tipos que a variavel pode guardar:
+
+= = 
+
+Inteiro: Variavel ira guardar apenas numeros inteiros
+
+Real: Variavel ira guardar apenas numeros reais
+
+Caractere: Tudo aquilo que é colocado entre aspas
+
+Logico: Guarda apenas 2 valores, verdadeiro ou falso
+
+= = =
+
+Para declarar a variavel, você ira no campo de variaveis, digitar o nome da variavel e o tipo primitivo dela
+
+= = =
+
+Para adicionar valores a uma variavel se coloca o nome da variavel e <- 
+
+var_name <- valor
+
+<- = siginifica recebe, ou atribuindo o valor a variavel
+
+= = = 
+
+Comandos de saida:
+
+Escreval(msg) = escreve mensagem
+
+Escreval("msg") = escreve "msg"
+
+Escreval("Mensagem", msg) = escreve "Mensagem" e msg

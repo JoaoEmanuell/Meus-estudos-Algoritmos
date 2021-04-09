@@ -1,0 +1,7 @@
+Escreva("escreva") = serve para escrever algo dentro do terminal
+
+Escreval("escreva") = serve para escrever algo e pular uma linha dentro do terminal
+
+name: tipo_primitivo = cria uma variavel
+
+var_name <- value = atribui um valor a variavel
