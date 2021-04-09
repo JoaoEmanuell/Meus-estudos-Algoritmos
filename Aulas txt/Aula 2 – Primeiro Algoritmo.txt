@@ -111,3 +111,5 @@ Escreval(msg) = escreve mensagem
 Escreval("msg") = escreve "msg"
 
 Escreval("Mensagem", msg) = escreve "Mensagem" e msg
+
+//Isso é apenas um teste para saber sobre a configuração do branch no github.
