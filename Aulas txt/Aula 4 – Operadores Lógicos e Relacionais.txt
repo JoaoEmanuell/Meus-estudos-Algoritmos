@@ -1,0 +1,39 @@
+Operadores Relacionais
+
+Os operadores relacionais sempre irão gerar valores logios, ou verdadeiro ou falso
+
+= = 
+
+> = Maior que
+
+< = Menor que
+
+>= = Maior ou igual a
+
+<= = Menor ou igual a
+
+= = igual a
+
+<> = Diferente de
+
+= = =
+
+Operadores logicos
+
+Os operadores logicos do visualg são " E " , " ou " e " NÃO ", eles so retornam valores caso as equações realizadas por eles incluam valores logicos
+
+O E so ira retornar valores veradeiros caso as duas premissas sejam verdadeiras
+
+Já o Ou so ira retornar valores verdadeiros e uma das premissas for veradeira
+
+Já o NÃO retornara o valor invertido de verdadeiro ou falso
+
+= = =
+
+Ordem de precendência
+
+Aritméticos = Primeiro
+
+Relacionais = Segundo
+
+Lógicos = Ultimo

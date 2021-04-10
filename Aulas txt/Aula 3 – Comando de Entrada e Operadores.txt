@@ -1,0 +1,81 @@
+Comandos de entrada servem para permitir que o usuario coloque dados.
+
+O comando que iremos aprender se chama leia
+
+Para executa-lo é bem simples.
+
+Leia (var)
+
+É nessessario declarar uma variavel para utilzar o comando Leia
+
+= = =
+
+Operadores Aritméticos:
+
++ = adição
+
+- = subtração
+
+* = Multiplicação
+
+/ = Divisão
+
+\ = Divisão Inteira
+
+^ = Exponenciação
+
+% = Módulo // Resto da divisião
+
+= = =
+
+Ordem de precedência
+
+() = Parênteses
+
+^ = Exponenciação
+
+* / = Mutiplicação / Divisão
+
++ - = Adição / Subtração
+
+= = = 
+
+Funções Aritméticas:
+
+Abs = Valor Absoluto
+
+Exp = Exponeciação
+
+int = valor inteiro
+
+RaizQ = Raiz quadrada
+
+Pi = Retorna Pi
+
+Sen = Seno (rad)
+
+Cos = Cosseno (rad)
+
+Tan = Tangente (rad)
+
+GraupRad = Graus para Rad
+
+= =
+
+Abs(-10) = 10
+
+Exp(3,2) = 9
+
+Int(3.9) = 3
+
+RaizQ(25) = 5
+
+Pi = 3.14...
+
+Sen(0.523) = 0.5
+
+Cos(0.523) = 0.86
+
+Tan(0.523) = 0.57
+
+GraupRad(30) = 0.52

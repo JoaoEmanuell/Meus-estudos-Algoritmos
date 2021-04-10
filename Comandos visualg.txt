@@ -1,3 +1,4 @@
+//Aula 02
 Escreva("escreva") = serve para escrever algo dentro do terminal
 
 Escreval("escreva") = serve para escrever algo e pular uma linha dentro do terminal
@@ -5,3 +6,86 @@ Escreval("escreva") = serve para escrever algo e pular uma linha dentro do termi
 name: tipo_primitivo = cria uma variavel
 
 var_name <- value = atribui um valor a variavel
+
+==================================
+//Aula 03
+
+Leia (var) = Ler algo digitado na tela e atribui a variavel
+
+= = =
+
+Operadores Aritméticos:
+
++ = adição
+
+- = subtração
+
+* = Multiplicação
+
+/ = Divisão
+
+\ = Divisão Inteira
+
+^ = Exponenciação
+
+% = Módulo // Resto da divisião
+
+= = =
+
+Ordem de precedência
+
+() = Parênteses
+
+^ = Exponenciação
+
+* / = Mutiplicação / Divisão
+
++ - = Adição / Subtração
+
+= = = 
+
+Funções Aritméticas:
+
+Abs = Valor Absoluto
+
+Exp = Exponeciação
+
+int = valor inteiro
+
+RaizQ = Raiz quadrada
+
+Pi = Retorna Pi
+
+Sen = Seno (rad)
+
+Cos = Cosseno (rad)
+
+Tan = Tangente (rad)
+
+GraupRad = Graus para Rad
+==================================
+//Aula 04
+
+> = Maior que
+
+< = Menor que
+
+>= = Maior ou igual a
+
+<= = Menor ou igual a
+
+= = igual a
+
+<> = Diferente de
+
+= = =
+
+Operadores logicos
+
+O E so ira retornar valores veradeiros caso as duas premissas sejam verdadeiras
+
+Já o Ou so ira retornar valores verdadeiros e uma das premissas for veradeira
+
+Já o NÃO retornara o valor invertido de verdadeiro ou falso
+
+==================================
