@@ -1,0 +1,93 @@
+O primeiro exercicio proposto foi para calcularmos a idade de uma pessoa.
+
+algoritmo "Aula 06"
+// Função :Aula 06
+// Autor :João Emanuel
+// Data : 11/04/2021
+// Seção de Declarações 
+var
+   Ano_atual, Ano_nascimento, Idade: inteiro
+inicio
+// Seção de Comandos 
+   Escreval ("Em que ano nós estamos?")
+   Leia (Ano_atual)
+   Escreval ("Qual é o meu ano de nascimento?")
+   leia (Ano_nascimento)
+   Idade <- Ano_atual - Ano_nascimento
+   Escreval ("Ah, Então eu tenho",Idade , " anos de idade!")
+fimalgoritmo
+
+==================================
+
+O segundo exercicio é um conversor de real para dolar (dolar ta caro que so a bixiga.)
+
+algoritmo "Aula 06"
+// Função :Aula 06
+// Autor :João Emanuel
+// Data : 11/04/2021
+// Seção de Declarações 
+var
+   dolar, reeal, soma: real
+inicio
+// Seção de Comandos 
+   Escreval ("Eu tenho quantos reais?")
+   Leia(reeal)
+   dolar <- 5.69
+   soma <- (reeal * dolar)
+   Escreval (reeal," Reais em Dolares vale $", soma," Dolares")
+fimalgoritmo
+==================================
+O terceiro exercicio é um conversor de graus celcius para fahrenheit
+
+algoritmo "Aula 06"
+// Função :Aula 06
+// Autor :João Emanuel
+// Data : 11/04/2021
+// Seção de Declarações 
+var
+   C, F: real
+inicio
+// Seção de Comandos 
+   Escreval ("Quantos graus celsius?")
+   Leia(c)
+   F <- (C * 9/5) + 32
+   Escreval (C," Graus celsius é igual a",F," graus Fahrenheit")
+fimalgoritmo
+==================================
+O quarto exercicio é um calculador de porcentagem:
+
+algoritmo "Aula 06"
+// Função :Aula 06
+// Autor :João Emanuel
+// Data : 11/04/2021
+// Seção de Declarações 
+var
+   P, I: real
+inicio
+// Seção de Comandos 
+   Escreval ("Quantos reais de produtos?")
+   Leia(P)
+   I <- (P * 60) / 100
+   Escreval ("No total eu irei pagar: ",I:5:2," reais de imposto")
+fimalgoritmo
+==================================
+O quinto exercicio é um calculador de emprestimo:
+
+algoritmo "Aula 06"
+// Função :Aula 06
+// Autor :João Emanuel
+// Data : 11/04/2021
+// Seção de Declarações 
+var
+   P, V, J, T: real
+inicio
+// Seção de Comandos 
+   Escreval ("Qual o valor do emprestimo?")
+   Leia(V)
+   Escreval ("Quantas parcelas?")
+   Leia(P)
+   J <- 20
+   T <- (V / 100 * J) + (V / P)
+   Escreval ("No total eu irei pagar:",P," parcelas de ",T:2," Reais")
+fimalgoritmo
+==================================
