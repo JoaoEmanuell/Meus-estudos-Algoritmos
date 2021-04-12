@@ -89,3 +89,38 @@ Já o Ou so ira retornar valores verdadeiros e uma das premissas for veradeira
 Já o NÃO retornara o valor invertido de verdadeiro ou falso
 
 ==================================
+Aula 07, 08
+
+condição simples:
+
+se (condição) entao
+   bloco 
+fimse
+
+condição composta:
+
+se (condição) entao
+   bloco
+senao
+   bloco
+fimse
+
+condição aninhada
+
+se (condição) entao
+   bloco
+senao
+   se (condição) entao
+       bloco
+   senao
+   fimse
+fimse
+
+Escolha:
+
+escolha var
+caso var = valor
+bloco
+outrocaso
+bloco
+==================================

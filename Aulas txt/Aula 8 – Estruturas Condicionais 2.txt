@@ -1,0 +1,28 @@
+Nessa aula iremos aprender sobre as estruturas condicionais aninhadas
+
+No visualg elas se representam da seguinte maneira:
+
+Se (situação 1) entao
+   bloco A
+senao
+   se (situação 2) entao
+      bloco B
+   senao
+      bloco C
+   fimse
+fimse
+
+Dessa forma eu posso ter muito mais condições do que o natural.
+
+Para facilitar exite a escrutura escolha caso
+
+Que serve para simplificar o algorimito acima:
+
+escolha var
+caso (var = a valor)
+     bloco
+outrocaso (caso var não seja igual a valor)
+     bloco
+fimescolha
+
+Mas como desvantagem, precisamos que o numero seja inteiro caso o contrario dar errado

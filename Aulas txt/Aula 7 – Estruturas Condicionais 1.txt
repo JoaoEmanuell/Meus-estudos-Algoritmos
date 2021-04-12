@@ -1,0 +1,13 @@
+Estruturas Condicionais são estruturas de ifs, se uma determinada coisa acontecer então faça outra coisa, no visualg é representada por:
+
+Se (expressão) entao
+   bloco
+fimSe
+
+Basicamente existem 2 tipos de condições, as simples que so envolvem um se e as compostas que envolvem um senao
+
+Se (expressão) entao
+   bloco
+senao
+   bloco
+fimSe
