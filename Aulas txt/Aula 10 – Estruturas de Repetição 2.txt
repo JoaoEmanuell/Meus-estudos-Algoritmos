@@ -1,0 +1,7 @@
+Nessa aula aprendemos sobre a estrutura de repetição chamada de repita:
+
+repita
+    bloco
+Ate (condição for verdadeira)
+
+Essa estrutura tem o teste logico feito no final, facilitando a vida uma vez que não sabemos quantas vezes precisamos repetir e nem perguntar no inicio quantas vezes o usuario precise repetir

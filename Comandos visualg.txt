@@ -124,3 +124,19 @@ bloco
 outrocaso
 bloco
 ==================================
+//Aula 09
+
+Enquanto (expressão) faca
+    bloco
+FimEnquanto
+
+estrutura enquanto (while)
+==================================
+//Aula 10
+
+repita
+    bloco
+Ate (condição for verdadeira)
+
+estrutura de repetição com teste logico no final
+==================================

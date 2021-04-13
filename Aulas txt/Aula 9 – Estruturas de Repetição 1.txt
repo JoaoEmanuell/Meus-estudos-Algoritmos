@@ -1,0 +1,25 @@
+Estruturas de repetições servem para repetir determinados blocos diversas vezes sem a necessidade de eu escrever o mesmo diversas vezes:
+
+= = =
+
+A estrutura Enquanto é uma estrutura de repetição, para representa-lá no visualg eu escrevo da seguinte maneira:
+
+= =
+
+Enquanto (expressão) faca
+    bloco
+FimEnquanto
+
+Enquanto a expressão for verdadeira execute o bloco
+
+==================================
+
+A primeira pratica foi contar de 1 ate 10
+
+==================================
+
+A segunda pratica foi contar de 10 ate 0
+
+==================================
+
+A terceira pratica foi contar de 0 ate onde o usuario quiser
