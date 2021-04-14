@@ -1,0 +1,42 @@
+Procedimentos são facilitadores de rotina, uma vez que eu posso usar eles para poupar linhas no progama principal
+
+Para declarar um procedimento é so ir na area de variaveis e colocar:
+
+Procedimento nome()
+inicio
+bloco
+fimprocedimento
+
+dessa forma você terá um procedimento
+
+para chamar o procedimento dentro do codigo principal é so usar o nome do procedimento
+
+nome()
+
+= = = = =
+
+Podemos colocar paramentros dentro dos procedimentos:
+
+A primeira forma de passar paramentros é por valor:
+
+procedimento nome (paramentros)
+
+= = =
+
+O segundo tipo de passagem de parâmentros é por referencia:
+
+procedimento nome(var paramentro: tipo)
+
+Esse tipo de parâmentro modifica tanto o parâmentro local quanto o paramentro global, dessa forma quem enviou os dados também é modificado
+
+
+
+= = == = = 
+
+ESCOPO
+
+Escopo é o local onde determinada variavel vai funcionar
+
+Variaveis declaradas fora de estrtuturas se chamam de variaveis de escopo local
+
+Ja as declaradas no codigo principal são chamadas de variaveis de escopo Global
