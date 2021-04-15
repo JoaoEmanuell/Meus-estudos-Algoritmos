@@ -1,0 +1,35 @@
+Existem somente 2 tipos de rotinas:
+
+Procedimentos (que vimos na aula passada) e funções (que veremos nessa aula)
+
+As funções tem a opção de retornar valores:
+
+funcao nome(paramentros: tipo primitivo) : tipo primitivo retorno
+var (opcionais)
+
+inicio
+    bloco
+    retorne valor
+fimfuncao
+
+===
+
+Dessa forma eu não preciso colocar um escreval como no procedimento, uma vez que a função ira me retornar o valor automaticamente
+
+==================================
+
+Funções pre definidas no visualg:
+
+compr(var) = comprimento da var
+
+copia(var, li, lf) = li siginifca letra inicial e lf siginifica letra final, dessa forma ele vai copiar tudo entre as letras inidicadas
+
+maiusc(var) = var toda em letras maisculas
+
+minusc(var) = var toda em letras minusculas
+
+pos("nome", var) = retorna a posição inicial da palavra colocada entre "" da var (note que a possição inicial é a posição da primeira letra
+
+asc("C") = retorna o valor da letra que é enviado para memoria do computador
+
+carac(num) = retorna o caractere do codigo que é enviado para memoria do computador 

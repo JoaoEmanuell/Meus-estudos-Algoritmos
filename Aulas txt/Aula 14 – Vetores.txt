@@ -1,0 +1,17 @@
+Vetores são variaveis compostas que podem armazenar bem mais de um valor por vez.
+
+Para declarar vetores no visualg se usa:
+
+nome: vetor[iq..fq] de inteiro
+
+iq = inicio da quantidade
+
+fq = fim da quantidade
+
+depois do "de" se coloca o tipo primitivo
+
+Para atribuir valores você coloca:
+
+Nome[posição] <- valor
+
+informe o nome do vetor, a posição onde você deseja colocar o item e o valor
