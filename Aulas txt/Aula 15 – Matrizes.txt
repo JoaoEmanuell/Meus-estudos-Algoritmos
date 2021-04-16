@@ -1,0 +1,19 @@
+Matrizes (ou variáveis compostas homogêneas multidimensionais) são vetores com mais de uma coluna, dessa forma permitindo alocar + espaços:
+
+nome: vetor[Nli..Nlf, Nci..Ncf] de tipo primitivo
+
+Nli = Numero de linhas inicial
+
+Nlf = Numero de linhas final
+
+Nci = Numero de colunas inicial
+
+Ncf = Numero de colunas final
+
+Para adicionar valores dentro de uma matriz se utiliza:
+
+nome[L,C] <- valor
+
+L = Linha
+
+C = Coluna
