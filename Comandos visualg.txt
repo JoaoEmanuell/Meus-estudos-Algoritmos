@@ -140,3 +140,48 @@ Ate (condição for verdadeira)
 
 estrutura de repetição com teste logico no final
 ==================================
+//Aula 11
+
+Para variavel <- inicio ate fim [passo salto (opicional) ] faca
+    bloco
+fimPara
+==================================
+//Aula 12
+
+Procedimento nome()
+inicio
+bloco
+fimprocedimento
+==================================
+//Aula 13
+
+funcao nome(paramentros: tipo primitivo) : tipo primitivo retorno
+var (opcionais)
+
+inicio
+    bloco
+    retorne valor
+fimfuncao
+==================================
+//Aula 14
+
+nome: vetor[iq..fq] de inteiro
+
+iq = inicio da quantidade
+
+fq = fim da quantidade
+
+depois do "de" se coloca o tipo primitivo
+==================================
+//Aula 15
+
+nome: vetor[Nli..Nlf, Nci..Ncf] de tipo primitivo
+
+Nli = Numero de linhas inicial
+
+Nlf = Numero de linhas final
+
+Nci = Numero de colunas inicial
+
+Ncf = Numero de colunas final
+==================================
